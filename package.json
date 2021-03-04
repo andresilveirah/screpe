@@ -14,9 +14,6 @@
     "scraper",
     "html-to-json"
   ],
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "main": "src/index.js",
   "homepage": "https://andresilveirah.github.io/screpe/",
   "repository": "https://github.com/andresilveirah/screpe",
